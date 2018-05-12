@@ -2,11 +2,14 @@
 title: "探索性数据分析 - 红葡萄酒质量"
 author: "Erick Zhang"
 date: "2018-5-7"
-output: 
-  html_document: 
+output:
+  html_document:
     number_sections: yes
     toc: yes
     toc_depth: 1
+  pdf_document:
+    toc: yes
+    toc_depth: '1'
 ---
 
 ====================================================================================
